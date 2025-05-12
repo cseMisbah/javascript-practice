@@ -1,8 +1,10 @@
 //create a basic digital clock
-
-//const watchElement = document.querySelector(".watch");
-//const watchButton = document.querySelector("#watch-btn")
-
+{
+  /**
+   <p class="watch"></p>
+    <button id="watch-btn">Stop the watch</button>
+  */
+}
 const watchElement = document.querySelector(".watch");
 
 const watchButton = document.querySelector("#watch-btn");
