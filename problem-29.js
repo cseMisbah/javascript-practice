@@ -1,3 +1,4 @@
+//Fetch Data Using Promises
 const fetchData = (url) => {
   return new Promise((resolve, reject) => {
     const xhr = new XMLHttpRequest();
